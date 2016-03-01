@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1456864491328">{:repl-history {:ide [], :local [&quot;(defn snk-posting [messages user message]\n  (updat-in messages user messages))&quot; &quot;(defn snk-posting [messages user message]\n  (update-in messages user messages))&quot; &quot;(conj [1 2] [3])&quot; &quot;(conj {:a 1} {:b 2})&quot; &quot;(assoc {:a 1} 'key' 'val')&quot; &quot;{:alice \&quot;foo\&quot;}&quot; &quot;({:alice \&quot;foo\&quot;} :alice)&quot; &quot;({:alice \&quot;foo\&quot;} :bob)&quot; &quot;({:alice \&quot;foo\&quot;} :bob [])&quot; &quot;(defn now [] (new java.util.Date))\n&quot;], :remote []}}</component>
+</project>
